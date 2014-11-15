@@ -5,7 +5,8 @@ A preliminary python version solutions for leetcode
 
 The code was wrote in Python3 under PEP8
 
-Parts of these code was re-write/collected from internet
+Parts of these code was re-write/collected from internet.
+
 Thanks for everyone that contribute to these code.
 
 
